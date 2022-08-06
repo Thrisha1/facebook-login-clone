@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(237, 242, 246);
+}
+.main{
+    /* margin: 9% 17%;*/
+    width: 100%;
+    height: 100vh;
+}
+.para{
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+
+.right{
+    /* margin-left: 5.5rem;
+    margin-right: 10%; */
+    background-color: #fff;
+    width: 26rem;
+    height: 22rem;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.at{
+    text-decoration: none;
+}
+.btn2{
+    background-color: rgba(25, 163, 28, 0.859);
+    border-color: #fff;
+    
+}
+.a{
+    border-color: #fff;
+    border-style: groove ;
+    
+}
+input:focus
+{
+    border-color: #5aaef8;
+    outline: none;
+}
